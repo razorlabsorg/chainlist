@@ -1,0 +1,35 @@
+[
+  {
+    "chainId": 336,
+    "chainName": "MEVM",
+    "address": "0x4dAE7042D681274E184902c65bfFb0698DA10585",
+    "symbol": "WETH",
+    "description": "WETH",
+    "decimals": 18,
+    "image": "mevm/asset/weth.png",
+    "default": true,
+    "coinGeckoId":"weth"
+  },
+  {
+    "chainId": 336,
+    "chainName": "MEVM",
+    "address": "0xAe065d169f16DA25D2B06E66947e91C058912d4A",
+    "symbol": "USDT",
+    "description": "Tether",
+    "decimals": 6,
+    "image": "mevm/asset/usdt.png",
+    "default": true,
+    "coinGeckoId":"tether"
+  },
+  {
+    "chainId": 336,
+    "chainName": "MEVM",
+    "address": "0x4EA7092BAA42008372A98A2c46AAf385d480abA8",
+    "symbol": "USDC",
+    "description": "USD Coin",
+    "decimals": 6,
+    "image": "mevm/asset/usdc.png",
+    "default": true,
+    "coinGeckoId":"usd-coin"
+  }
+]
