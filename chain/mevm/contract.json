@@ -17,7 +17,7 @@
     "symbol": "USDT",
     "description": "Tether USD",
     "decimals": 6,
-    "image": "mevm/asset/usdt.webp",
+    "image": "mevm/asset/usdt.png",
     "default": true,
     "coinGeckoId":"tether"
   },
@@ -28,7 +28,7 @@
     "symbol": "USDC",
     "description": "USD Coin",
     "decimals": 6,
-    "image": "mevm/asset/usdc.webp",
+    "image": "mevm/asset/usdc.png",
     "default": true,
     "coinGeckoId":"usd-coin"
   }
