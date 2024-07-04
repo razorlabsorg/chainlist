@@ -1,6 +1,17 @@
 [
   {
     "chainId": 4,
+    "chainName": "m1 devnet",
+    "address": "0x1::aptos_coin::AptosCoin",
+    "symbol": "MOVE",
+    "description": "Movement Coin",
+    "decimals": 8,
+    "image": "m1/asset/move.png",
+    "default": false,
+    "coinGeckoId": "aptos"
+  },
+  {
+    "chainId": 27,
     "chainName": "m1 testnet",
     "address": "0x1::aptos_coin::AptosCoin",
     "symbol": "MOVE",
