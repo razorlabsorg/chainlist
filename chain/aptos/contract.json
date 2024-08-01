@@ -20,5 +20,60 @@
     "image": "aptos/asset/MOVE.png",
     "default": false,
     "coinGeckoId": "aptos"
+  },
+  {
+    "chainId": 27,
+    "chainName": "Movement Aptos",
+    "address": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::USDT",
+    "symbol": "USDT",
+    "description": "Tether USD",
+    "decimals": 6,
+    "image": "aptos/asset/USDT.png",
+    "default": false,
+    "coinGeckoId": "tether"
+  },
+  {
+    "chainId": 27,
+    "chainName": "Movement Aptos",
+    "address": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::USDC",
+    "symbol": "USDC",
+    "description": "USD Coin",
+    "decimals": 6,
+    "image": "aptos/asset/USDC.png",
+    "default": false,
+    "coinGeckoId": "usd-coin"
+  },
+  {
+    "chainId": 27,
+    "chainName": "Movement Aptos",
+    "address": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::WETH",
+    "symbol": "WETH",
+    "description": "Wrapped Ether",
+    "decimals": 8,
+    "image": "aptos/asset/WETH.png",
+    "default": false,
+    "coinGeckoId": "weth"
+  },
+  {
+    "chainId": 27,
+    "chainName": "Movement Aptos",
+    "address": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::WBTC",
+    "symbol": "WBTC",
+    "description": "Wrapped Bitcoin",
+    "decimals": 8,
+    "image": "aptos/asset/WBTC.png",
+    "default": false,
+    "coinGeckoId": "wrapped-bitcoin"
+  },
+  {
+    "chainId": 27,
+    "chainName": "Movement Aptos",
+    "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::DAI",
+    "symbol": "DAI",
+    "description": "Dai Stablecoin",
+    "decimals": 8,
+    "image": "aptos/asset/DAI.png",
+    "default": false,
+    "coinGeckoId": "dai"
   }
 ]
