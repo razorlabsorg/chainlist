@@ -1,35 +1,57 @@
 [
   {
-    "chainId": 336,
-    "chainName": "MEVM",
-    "address": "0x4dAE7042D681274E184902c65bfFb0698DA10585",
+    "chainId": 30732,
+    "chainName": "Movement EVM",
+    "address": "0x4114E6516413c5BA631002A0cF95E828714F8f18",
     "symbol": "WETH",
     "description": "Wrapped Ether",
     "decimals": 18,
-    "image": "mevm/asset/weth.png",
+    "image": "mevm/asset/WETH.png",
     "default": true,
     "coinGeckoId":"weth"
   },
   {
-    "chainId": 336,
-    "chainName": "MEVM",
-    "address": "0xAe065d169f16DA25D2B06E66947e91C058912d4A",
+    "chainId": 30732,
+    "chainName": "Movement EVM",
+    "address": "0x846B2EaEC7D9A21cf073F4dDa79C6aEa0919c867",
     "symbol": "USDT",
     "description": "Tether USD",
     "decimals": 6,
-    "image": "mevm/asset/usdt.png",
+    "image": "mevm/asset/USDT.png",
     "default": true,
     "coinGeckoId":"tether"
   },
   {
-    "chainId": 336,
-    "chainName": "MEVM",
-    "address": "0x4EA7092BAA42008372A98A2c46AAf385d480abA8",
+    "chainId": 30732,
+    "chainName": "Movement EVM",
+    "address": "0xaFE0732F985659986Cc3f27AeF76f419BAae5Cde",
     "symbol": "USDC",
     "description": "USD Coin",
     "decimals": 6,
-    "image": "mevm/asset/usdc.png",
+    "image": "mevm/asset/USDC.png",
     "default": true,
     "coinGeckoId":"usd-coin"
+  },
+  {
+    "chainId": 30732,
+    "chainName": "Movement EVM",
+    "address": "0x852d5ecB513f8F1928539AaF7217F7e6E0Bfdaa3",
+    "symbol": "WBTC",
+    "description": "Wrapped Bitcoin",
+    "decimals": 18,
+    "image": "mevm/asset/WBTC.png",
+    "default": true,
+    "coinGeckoId":"wrapped-bitcoin"
+  },
+  {
+    "chainId": 30732,
+    "chainName": "Movement EVM",
+    "address": "0xc02df8710Be33901D11A7E2D49B6c841e12B6f76",
+    "symbol": "WMOVE",
+    "description": "Wrapped Move",
+    "decimals": 18,
+    "image": "mevm/asset/MOVE.png",
+    "default": true,
+    "coinGeckoId":"aptos"
   }
 ]
