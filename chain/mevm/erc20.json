@@ -2,6 +2,17 @@
   {
     "chainId": 30732,
     "chainName": "Movement EVM",
+    "address": "0xc02df8710Be33901D11A7E2D49B6c841e12B6f76",
+    "symbol": "WMOVE",
+    "description": "Wrapped Move",
+    "decimals": 18,
+    "image": "mevm/asset/MOVE.png",
+    "default": true,
+    "coinGeckoId":"aptos"
+  },
+  {
+    "chainId": 30732,
+    "chainName": "Movement EVM",
     "address": "0x4114E6516413c5BA631002A0cF95E828714F8f18",
     "symbol": "WETH",
     "description": "Wrapped Ether",
@@ -46,11 +57,33 @@
   {
     "chainId": 30732,
     "chainName": "Movement EVM",
-    "address": "0xc02df8710Be33901D11A7E2D49B6c841e12B6f76",
-    "symbol": "WMOVE",
-    "description": "Wrapped Move",
+    "address": "0x2d1C7b2eb59F1c93983631bE4F05B08b51040dd3",
+    "symbol": "xMOVE",
+    "description": "xMOVE",
     "decimals": 18,
-    "image": "mevm/asset/MOVE.png",
+    "image": "mevm/asset/xMOVE.png",
+    "default": true,
+    "coinGeckoId":"aptos"
+  },
+  {
+    "chainId": 30732,
+    "chainName": "Movement EVM",
+    "address": "0x312683913257fFb976Bf6F6d8F365332eD6F6b4B",
+    "symbol": "moveUSD",
+    "description": "moveUSD",
+    "decimals": 18,
+    "image": "mevm/asset/moveUSD.png",
+    "default": true,
+    "coinGeckoId":"aptos"
+  },
+  {
+    "chainId": 30732,
+    "chainName": "Movement EVM",
+    "address": "0x75824026A12a4Bf1BF996528B10D2aDD384c56a2",
+    "symbol": "lstMOVE",
+    "description": "Liquid Staked Move",
+    "decimals": 18,
+    "image": "mevm/asset/lstMOVE.png",
     "default": true,
     "coinGeckoId":"aptos"
   }
