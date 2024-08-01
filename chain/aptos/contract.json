@@ -130,5 +130,27 @@
     "image": "aptos/asset/TRON.png",
     "default": false,
     "coinGeckoId": "tron"
+  },
+  {
+    "chainId": 27,
+    "chainName": "Movement Aptos",
+    "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::razor_token::Razor",
+    "symbol": "RZR",
+    "description": "Razor Token",
+    "decimals": 8,
+    "image": "aptos/asset/RZR.png",
+    "default": false,
+    "coinGeckoId": "uniswap"
+  },
+  {
+    "chainId": 27,
+    "chainName": "Movement Aptos",
+    "address": "0x8093e814c5cde1a2775750e999b3d9a01633fca54959126d890e87d95acbabca::staking::StakingToken",
+    "symbol": "stMOVE",
+    "description": "Staked Testnet Move",
+    "decimals": 8,
+    "image": "aptos/asset/stMOVE.png",
+    "default": false,
+    "coinGeckoId": "aptos"
   }
 ]
