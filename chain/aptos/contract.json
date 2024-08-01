@@ -75,5 +75,60 @@
     "image": "aptos/asset/DAI.png",
     "default": false,
     "coinGeckoId": "dai"
+  },
+  {
+    "chainId": 27,
+    "chainName": "Movement Aptos",
+    "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::BNB",
+    "symbol": "BNB",
+    "description": "Binance Coin",
+    "decimals": 6,
+    "image": "aptos/asset/BNB.png",
+    "default": false,
+    "coinGeckoId": "wbnb"
+  },
+  {
+    "chainId": 27,
+    "chainName": "Movement Aptos",
+    "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::SOL",
+    "symbol": "SOL",
+    "description": "Solana Coin",
+    "decimals": 8,
+    "image": "aptos/asset/SOL.png",
+    "default": false,
+    "coinGeckoId": "solana"
+  },
+  {
+    "chainId": 27,
+    "chainName": "Movement Aptos",
+    "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::MATIC",
+    "symbol": "MATIC",
+    "description": "Polygon Matic",
+    "decimals": 8,
+    "image": "aptos/asset/MATIC.png",
+    "default": false,
+    "coinGeckoId": "matic-network"
+  },
+  {
+    "chainId": 27,
+    "chainName": "Movement Aptos",
+    "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::NEAR",
+    "symbol": "NEAR",
+    "description": "Near",
+    "decimals": 8,
+    "image": "aptos/asset/NEAR.png",
+    "default": false,
+    "coinGeckoId": "near"
+  },
+  {
+    "chainId": 27,
+    "chainName": "Movement Aptos",
+    "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::TRON",
+    "symbol": "TRON",
+    "description": "Tron",
+    "decimals": 8,
+    "image": "aptos/asset/TRON.png",
+    "default": false,
+    "coinGeckoId": "tron"
   }
 ]
