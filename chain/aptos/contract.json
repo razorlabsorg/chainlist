@@ -1,8 +1,9 @@
 [
   {
     "chainId": 4,
-    "chainName": "Movement Aptos Devnet",
-    "address": "0x1::aptos_coin::AptosCoin",
+    "chainName": "Suzuka Testnet Devnet",
+    "address": "0x000000000000000000000000000000000000000000000000000000000000000a",
+    "legacyAddress": "0x1::aptos_coin::AptosCoin",
     "symbol": "MOVE",
     "description": "Movement Coin",
     "decimals": 8,
@@ -12,8 +13,9 @@
   },
   {
     "chainId": 27,
-    "chainName": "Movement Aptos",
-    "address": "0x1::aptos_coin::AptosCoin",
+    "chainName": "Suzuka Testnet",
+    "address": "0x000000000000000000000000000000000000000000000000000000000000000a",
+    "legacyAddress": "0x1::aptos_coin::AptosCoin",
     "symbol": "MOVE",
     "description": "Movement Coin",
     "decimals": 8,
@@ -24,7 +26,8 @@
   {
     "chainId": 177,
     "chainName": "Porto Testnet",
-    "address": "0x1::aptos_coin::AptosCoin",
+    "address": "0x000000000000000000000000000000000000000000000000000000000000000a",
+    "legacyAddress": "0x1::aptos_coin::AptosCoin",
     "symbol": "MOVE",
     "description": "Movement Coin",
     "decimals": 8,
@@ -34,8 +37,9 @@
   },
   {
     "chainId": 27,
-    "chainName": "Movement Aptos",
-    "address": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::USDT",
+    "chainName": "Suzuka Testnet",
+    "address": "0xe161897670a0ee5a0e3c79c3b894a0c46e4ba54c6d2ca32e285ab4b01eb74b66",
+    "legacyAddress": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::USDT",
     "symbol": "USDT",
     "description": "Tether USD",
     "decimals": 6,
@@ -46,7 +50,8 @@
   {
     "chainId": 177,
     "chainName": "Porto Testnet",
-    "address": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::USDT",
+    "address": "0xe161897670a0ee5a0e3c79c3b894a0c46e4ba54c6d2ca32e285ab4b01eb74b66",
+    "legacyAddress": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::USDT",
     "symbol": "USDT",
     "description": "Tether USD",
     "decimals": 6,
@@ -56,7 +61,7 @@
   },
   {
     "chainId": 27,
-    "chainName": "Movement Aptos",
+    "chainName": "Suzuka Testnet",
     "address": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::USDC",
     "symbol": "USDC",
     "description": "USD Coin",
@@ -78,7 +83,7 @@
   },
   {
     "chainId": 27,
-    "chainName": "Movement Aptos",
+    "chainName": "Suzuka Testnet",
     "address": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::WETH",
     "symbol": "WETH",
     "description": "Wrapped Ether",
@@ -100,7 +105,7 @@
   },
   {
     "chainId": 27,
-    "chainName": "Movement Aptos",
+    "chainName": "Suzuka Testnet",
     "address": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::WBTC",
     "symbol": "WBTC",
     "description": "Wrapped Bitcoin",
@@ -122,7 +127,7 @@
   },
   {
     "chainId": 27,
-    "chainName": "Movement Aptos",
+    "chainName": "Suzuka Testnet",
     "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::DAI",
     "symbol": "DAI",
     "description": "Dai Stablecoin",
@@ -144,7 +149,7 @@
   },
   {
     "chainId": 27,
-    "chainName": "Movement Aptos",
+    "chainName": "Suzuka Testnet",
     "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::BNB",
     "symbol": "BNB",
     "description": "Binance Coin",
@@ -166,7 +171,7 @@
   },
   {
     "chainId": 27,
-    "chainName": "Movement Aptos",
+    "chainName": "Suzuka Testnet",
     "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::SOL",
     "symbol": "SOL",
     "description": "Solana Coin",
@@ -188,7 +193,7 @@
   },
   {
     "chainId": 27,
-    "chainName": "Movement Aptos",
+    "chainName": "Suzuka Testnet",
     "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::MATIC",
     "symbol": "MATIC",
     "description": "Polygon Matic",
@@ -210,7 +215,7 @@
   },
   {
     "chainId": 27,
-    "chainName": "Movement Aptos",
+    "chainName": "Suzuka Testnet",
     "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::NEAR",
     "symbol": "NEAR",
     "description": "Near",
@@ -232,7 +237,7 @@
   },
   {
     "chainId": 27,
-    "chainName": "Movement Aptos",
+    "chainName": "Suzuka Testnet",
     "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::TRON",
     "symbol": "TRON",
     "description": "Tron",
@@ -254,7 +259,7 @@
   },
   {
     "chainId": 27,
-    "chainName": "Movement Aptos",
+    "chainName": "Suzuka Testnet",
     "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::razor_token::Razor",
     "symbol": "RZR",
     "description": "Razor Token",
@@ -276,7 +281,7 @@
   },
   {
     "chainId": 27,
-    "chainName": "Movement Aptos",
+    "chainName": "Suzuka Testnet",
     "address": "0x8093e814c5cde1a2775750e999b3d9a01633fca54959126d890e87d95acbabca::staking::StakingToken",
     "symbol": "stMOVE",
     "description": "Staked Testnet Move",
