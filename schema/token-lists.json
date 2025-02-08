@@ -1,0 +1,10 @@
+{
+  "https://raw.githubusercontent.com/razorlabsorg/chainlist/main/schema/razor-default.json": {
+    "name": "RazorDEX Default",
+    "homepage": "https://razordex.xyz"
+  },
+  "https://raw.githubusercontent.com/razorlabsorg/chainlist/main/schema/razor-extended.json": {
+    "name": "RazorDEX Extended",
+    "homepage": "https://razordex.xyz" 
+  }
+}

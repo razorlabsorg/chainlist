@@ -1,10 +1,10 @@
 {
-  "name": "razordex",
-  "timestamp": "2023-08-25T15:41:29.665Z",
+  "name": "RazorDEX Extended List",
+  "timestamp": "2025-02-08T15:41:29.665Z",
   "version": {
     "major": 1,
-    "minor": 3,
-    "patch": 1
+    "minor": 0,
+    "patch": 24
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/razorlabsorg/chainlist/refs/heads/main/chain/aptos/asset/WMOVE.png",
