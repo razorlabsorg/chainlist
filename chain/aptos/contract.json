@@ -1,19 +1,7 @@
 [
   {
-    "chainId": 4,
-    "chainName": "Suzuka Testnet Devnet",
-    "address": "0x000000000000000000000000000000000000000000000000000000000000000a",
-    "legacyAddress": "0x1::aptos_coin::AptosCoin",
-    "symbol": "MOVE",
-    "description": "Move Coin",
-    "decimals": 8,
-    "image": "aptos/asset/MOVE.png",
-    "default": false,
-    "coinGeckoId": "aptos"
-  },
-  {
-    "chainId": 27,
-    "chainName": "Suzuka Testnet",
+    "chainId": 250,
+    "chainName": "Bardock Testnet",
     "address": "0x000000000000000000000000000000000000000000000000000000000000000a",
     "legacyAddress": "0x1::aptos_coin::AptosCoin",
     "symbol": "MOVE",
@@ -36,8 +24,8 @@
     "coinGeckoId": "aptos"
   },
   {
-    "chainId": 27,
-    "chainName": "Suzuka Testnet",
+    "chainId": 250,
+    "chainName": "Bardock Testnet",
     "address": "0xe161897670a0ee5a0e3c79c3b894a0c46e4ba54c6d2ca32e285ab4b01eb74b66",
     "legacyAddress": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::USDT",
     "symbol": "USDT",
@@ -60,8 +48,8 @@
     "coinGeckoId": "tether"
   },
   {
-    "chainId": 27,
-    "chainName": "Suzuka Testnet",
+    "chainId": 250,
+    "chainName": "Bardock Testnet",
     "address": "0x1e74c3312b1a7a08eb7cf61310787597ea6609d6d99ce86c0e48399144ea4ce9",
     "legacyAddress": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::USDC",
     "symbol": "USDC",
@@ -84,8 +72,8 @@
     "coinGeckoId": "usd-coin"
   },
   {
-    "chainId": 27,
-    "chainName": "Suzuka Testnet",
+    "chainId": 250,
+    "chainName": "Bardock Testnet",
     "address": "0xa484a866e1bfcb76e8057939d6944539070b53c511813d7b21c76cae9e6a6e26",
     "legacyAddress": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::WETH",
     "symbol": "WETH",
@@ -108,8 +96,8 @@
     "coinGeckoId": "weth"
   },
   {
-    "chainId": 27,
-    "chainName": "Suzuka Testnet",
+    "chainId": 250,
+    "chainName": "Bardock Testnet",
     "address": "0x6e8aae037a65e90ada6715e9108fb6d585a71c72d06f3963aae94e7845f24f02",
     "legacyAddress": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::WBTC",
     "symbol": "WBTC",
@@ -132,8 +120,8 @@
     "coinGeckoId": "wrapped-bitcoin"
   },
   {
-    "chainId": 27,
-    "chainName": "Suzuka Testnet",
+    "chainId": 250,
+    "chainName": "Bardock Testnet",
     "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::DAI",
     "symbol": "DAI",
     "description": "Dai Stablecoin",
@@ -154,8 +142,8 @@
     "coinGeckoId": "dai"
   },
   {
-    "chainId": 27,
-    "chainName": "Suzuka Testnet",
+    "chainId": 250,
+    "chainName": "Bardock Testnet",
     "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::BNB",
     "symbol": "BNB",
     "description": "Binance Coin",
@@ -176,8 +164,8 @@
     "coinGeckoId": "wbnb"
   },
   {
-    "chainId": 27,
-    "chainName": "Suzuka Testnet",
+    "chainId": 250,
+    "chainName": "Bardock Testnet",
     "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::SOL",
     "symbol": "SOL",
     "description": "Solana Coin",
@@ -198,8 +186,8 @@
     "coinGeckoId": "solana"
   },
   {
-    "chainId": 27,
-    "chainName": "Suzuka Testnet",
+    "chainId": 250,
+    "chainName": "Bardock Testnet",
     "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::MATIC",
     "symbol": "MATIC",
     "description": "Polygon Matic",
@@ -220,8 +208,8 @@
     "coinGeckoId": "matic-network"
   },
   {
-    "chainId": 27,
-    "chainName": "Suzuka Testnet",
+    "chainId": 250,
+    "chainName": "Bardock Testnet",
     "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::NEAR",
     "symbol": "NEAR",
     "description": "Near",
@@ -242,8 +230,8 @@
     "coinGeckoId": "near"
   },
   {
-    "chainId": 27,
-    "chainName": "Suzuka Testnet",
+    "chainId": 250,
+    "chainName": "Bardock Testnet",
     "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::TRON",
     "symbol": "TRON",
     "description": "Tron",
@@ -264,8 +252,8 @@
     "coinGeckoId": "tron"
   },
   {
-    "chainId": 27,
-    "chainName": "Suzuka Testnet",
+    "chainId": 250,
+    "chainName": "Bardock Testnet",
     "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::razor_token::Razor",
     "symbol": "RZR",
     "description": "Razor Token",
@@ -286,8 +274,8 @@
     "coinGeckoId": "uniswap"
   },
   {
-    "chainId": 27,
-    "chainName": "Suzuka Testnet",
+    "chainId": 250,
+    "chainName": "Bardock Testnet",
     "address": "0x8093e814c5cde1a2775750e999b3d9a01633fca54959126d890e87d95acbabca::staking::StakingToken",
     "symbol": "stMOVE",
     "description": "Staked Testnet Move",
