@@ -1,5 +1,17 @@
 [
   {
+    "chainId": 126,
+    "chainName": "Mainnet",
+    "address": "0x000000000000000000000000000000000000000000000000000000000000000a",
+    "legacyAddress": "0x1::aptos_coin::AptosCoin",
+    "symbol": "MOVE",
+    "description": "Move Coin",
+    "decimals": 8,
+    "image": "aptos/asset/MOVE.png",
+    "default": false,
+    "coinGeckoId": "aptos"
+  },
+  {
     "chainId": 250,
     "chainName": "Bardock Testnet",
     "address": "0x000000000000000000000000000000000000000000000000000000000000000a",
