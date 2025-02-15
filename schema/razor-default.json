@@ -11,60 +11,84 @@
   "keywords": ["razor", "default"],
   "tokens": [
     {
-      "name": "Move Coin",
-      "symbol": "MOVE",
-      "address": "0x000000000000000000000000000000000000000000000000000000000000000a",
-      "chainId": 250,
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/razorlabsorg/chainlist/refs/heads/main/chain/aptos/asset/WMOVE.png"
-    },
-    {
-      "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "address": "0xe3fb3dc37a1e805d207c85b61ffe678c9086f24bbbe00ad465f84116aa5dda23",
+      "name": "Test Dai Stablecoin",
+      "symbol": "tDAI",
+      "address": "0xfdae7b1bf4b0009f2373ff9e2a636f04bcc8b2d82563de84f4b511f19278c417",
       "chainId": 250,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/razorlabsorg/chainlist/refs/heads/main/chain/aptos/asset/DAI.png"
     },
     {
-      "name": "Wrapped ETH",
-      "symbol": "WETH",
-      "address": "0x84f4ac00919105104d50535a770615ed2fb748725e252625b3f12f234e312f16",
+      "name": "Test Dai Stablecoin",
+      "symbol": "tDAI",
+      "address": "0xfdae7b1bf4b0009f2373ff9e2a636f04bcc8b2d82563de84f4b511f19278c417",
+      "chainId": 126,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/razorlabsorg/chainlist/refs/heads/main/chain/aptos/asset/DAI.png"
+    },
+    {
+      "name": "Test Wrapped ETH",
+      "symbol": "tWETH",
+      "address": "0x29ed7a3412030945095a1e991065aa3c943bd8e371931c18d50da461e8b287a7",
       "chainId": 250,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/razorlabsorg/chainlist/refs/heads/main/chain/aptos/asset/WETH.png"
     },
     {
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "address": "0x7d3621b4915e16fd38d12a46905da0bd8da3439184fcedefde1859f919e544cd",
+      "name": "Test Wrapped ETH",
+      "symbol": "tWETH",
+      "address": "0x29ed7a3412030945095a1e991065aa3c943bd8e371931c18d50da461e8b287a7",
+      "chainId": 126,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/razorlabsorg/chainlist/refs/heads/main/chain/aptos/asset/WETH.png"
+    },
+    {
+      "name": "Test Wrapped BTC",
+      "symbol": "tWBTC",
+      "address": "0x502ce7e025310f676585dab2d2f317e71b6232bb2a8eae90fba6a7a2a83dbcbd",
       "chainId": 250,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/razorlabsorg/chainlist/refs/heads/main/chain/aptos/asset/WBTC.png"
     },
     {
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "address": "0x5f4c59f6c6e762fbe2fe58f3afcde7bbd595b85708c7fa795c026e436874c239",
+      "name": "Test Wrapped BTC",
+      "symbol": "tWBTC",
+      "address": "0x502ce7e025310f676585dab2d2f317e71b6232bb2a8eae90fba6a7a2a83dbcbd",
+      "chainId": 126,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/razorlabsorg/chainlist/refs/heads/main/chain/aptos/asset/WBTC.png"
+    },
+    {
+      "name": "Test Tether USD",
+      "symbol": "tUSDT",
+      "address": "0xe5df458e0bb7020247d5e8c4f5fda70adaccff5318bb456bad8f7c1e3d2bf744",
       "chainId": 250,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/razorlabsorg/chainlist/refs/heads/main/chain/aptos/asset/USDT.png"
     },
     {
-      "name": "USDC Coin",
-      "symbol": "USDC",
-      "address": "0x24823910e8c0f3b864d309039c75b33439ff261012e258098e5f6e61dec1280d",
+      "name": "Test Tether USD",
+      "symbol": "tUSDT",
+      "address": "0xe5df458e0bb7020247d5e8c4f5fda70adaccff5318bb456bad8f7c1e3d2bf744",
+      "chainId": 126,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/razorlabsorg/chainlist/refs/heads/main/chain/aptos/asset/USDT.png"
+    },
+    {
+      "name": "Test USDC Coin",
+      "symbol": "tUSDC",
+      "address": "0x63299f5dcc23daa43c841fb740ba094845a1b9c36f69e8ba5f387574f2dd6e7c",
       "chainId": 250,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/razorlabsorg/chainlist/refs/heads/main/chain/aptos/asset/USDC.png"
     },
     {
-      "name": "Razor Token",
-      "symbol": "RZR",
-      "address": "0x9faf146b40c8029c736077fc1a946a957d6bb42f4084d5ef448d7ed4f4234db8",
-      "chainId": 250,
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/razorlabsorg/chainlist/refs/heads/main/chain/aptos/asset/RZR.png"
+      "name": "Test USDC Coin",
+      "symbol": "tUSDC",
+      "address": "0x63299f5dcc23daa43c841fb740ba094845a1b9c36f69e8ba5f387574f2dd6e7c",
+      "chainId": 126,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/razorlabsorg/chainlist/refs/heads/main/chain/aptos/asset/USDC.png"
     }
   ]
 }
