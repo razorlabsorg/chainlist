@@ -38,7 +38,7 @@
   {
     "chainId": 250,
     "chainName": "Bardock Testnet",
-    "address": "0xe161897670a0ee5a0e3c79c3b894a0c46e4ba54c6d2ca32e285ab4b01eb74b66",
+    "address": "0x5f4c59f6c6e762fbe2fe58f3afcde7bbd595b85708c7fa795c026e436874c239",
     "legacyAddress": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::USDT",
     "symbol": "USDT",
     "description": "Tether USD",
