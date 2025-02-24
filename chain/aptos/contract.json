@@ -9,7 +9,7 @@
     "decimals": 8,
     "image": "aptos/asset/MOVE.png",
     "default": false,
-    "coinGeckoId": "aptos"
+    "coinGeckoId": "movement"
   },
   {
     "chainId": 250,
@@ -21,7 +21,7 @@
     "decimals": 8,
     "image": "aptos/asset/MOVE.png",
     "default": false,
-    "coinGeckoId": "aptos"
+    "coinGeckoId": "movement"
   },
   {
     "chainId": 177,
@@ -33,7 +33,7 @@
     "decimals": 8,
     "image": "aptos/asset/MOVE.png",
     "default": false,
-    "coinGeckoId": "aptos"
+    "coinGeckoId": "movement"
   },
   {
     "chainId": 250,
@@ -294,7 +294,7 @@
     "decimals": 8,
     "image": "aptos/asset/stMOVE.png",
     "default": false,
-    "coinGeckoId": "aptos"
+    "coinGeckoId": "movement"
   },
   {
     "chainId": 177,
@@ -305,6 +305,6 @@
     "decimals": 8,
     "image": "aptos/asset/stMOVE.png",
     "default": false,
-    "coinGeckoId": "aptos"
+    "coinGeckoId": "movement"
   }
 ]
