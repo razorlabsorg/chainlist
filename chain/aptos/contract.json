@@ -24,23 +24,10 @@
     "coinGeckoId": "movement"
   },
   {
-    "chainId": 177,
-    "chainName": "Porto Testnet",
-    "address": "0x000000000000000000000000000000000000000000000000000000000000000a",
-    "legacyAddress": "0x1::aptos_coin::AptosCoin",
-    "symbol": "MOVE",
-    "description": "Move Coin",
-    "decimals": 8,
-    "image": "aptos/asset/MOVE.png",
-    "default": false,
-    "coinGeckoId": "movement"
-  },
-  {
-    "chainId": 250,
-    "chainName": "Bardock Testnet",
-    "address": "0x5f4c59f6c6e762fbe2fe58f3afcde7bbd595b85708c7fa795c026e436874c239",
-    "legacyAddress": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::USDT",
-    "symbol": "USDT",
+    "chainId": 126,
+    "chainName": "Mainnet",
+    "address": "0x447721a30109c662dde9c73a0c2c9c9c459fb5e5a9c92f03c50fa69737f5d08d",
+    "symbol": "USDT.e",
     "description": "Tether USD",
     "decimals": 6,
     "image": "aptos/asset/USDT.png",
@@ -48,9 +35,42 @@
     "coinGeckoId": "tether"
   },
   {
-    "chainId": 177,
-    "chainName": "Porto Testnet",
-    "address": "0xe161897670a0ee5a0e3c79c3b894a0c46e4ba54c6d2ca32e285ab4b01eb74b66",
+    "chainId": 126,
+    "chainName": "Mainnet",
+    "address": "0x83121c9f9b0527d1f056e21a950d6bf3b9e9e2e8353d0e95ccea726713cbea39",
+    "symbol": "USDC.e",
+    "description": "USD Coin",
+    "decimals": 6,
+    "image": "aptos/asset/USDC.png",
+    "default": false,
+    "coinGeckoId": "usd-coin"
+  },
+  {
+    "chainId": 126,
+    "chainName": "Mainnet",
+    "address": "0x908828f4fb0213d4034c3ded1630bbd904e8a3a6bf3c63270887f0b06653a376",
+    "symbol": "WETH.e",
+    "description": "Wrapped Ether",
+    "decimals": 8,
+    "image": "aptos/asset/WETH.png",
+    "default": false,
+    "coinGeckoId": "weth"
+  },
+  {
+    "chainId": 126,
+    "chainName": "Mainnet",
+    "address": "0xb06f29f24dde9c6daeec1f930f14a441a8d6c0fbea590725e88b340af3e1939c",
+    "symbol": "WBTC.e",
+    "description": "Wrapped Bitcoin",
+    "decimals": 8,
+    "image": "aptos/asset/WBTC.png",
+    "default": false,
+    "coinGeckoId": "wrapped-bitcoin"
+  },
+  {
+    "chainId": 250,
+    "chainName": "Bardock Testnet",
+    "address": "0x5f4c59f6c6e762fbe2fe58f3afcde7bbd595b85708c7fa795c026e436874c239",
     "legacyAddress": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::USDT",
     "symbol": "USDT",
     "description": "Tether USD",
@@ -72,32 +92,8 @@
     "coinGeckoId": "usd-coin"
   },
   {
-    "chainId": 177,
-    "chainName": "Porto Testnet",
-    "address": "0x1e74c3312b1a7a08eb7cf61310787597ea6609d6d99ce86c0e48399144ea4ce9",
-    "legacyAddress": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::USDC",
-    "symbol": "USDC",
-    "description": "USD Coin",
-    "decimals": 6,
-    "image": "aptos/asset/USDC.png",
-    "default": false,
-    "coinGeckoId": "usd-coin"
-  },
-  {
     "chainId": 250,
     "chainName": "Bardock Testnet",
-    "address": "0xa484a866e1bfcb76e8057939d6944539070b53c511813d7b21c76cae9e6a6e26",
-    "legacyAddress": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::WETH",
-    "symbol": "WETH",
-    "description": "Wrapped Ether",
-    "decimals": 8,
-    "image": "aptos/asset/WETH.png",
-    "default": false,
-    "coinGeckoId": "weth"
-  },
-  {
-    "chainId": 177,
-    "chainName": "Porto Testnet",
     "address": "0xa484a866e1bfcb76e8057939d6944539070b53c511813d7b21c76cae9e6a6e26",
     "legacyAddress": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::WETH",
     "symbol": "WETH",
@@ -120,31 +116,8 @@
     "coinGeckoId": "wrapped-bitcoin"
   },
   {
-    "chainId": 177,
-    "chainName": "Porto Testnet",
-    "address": "0x6e8aae037a65e90ada6715e9108fb6d585a71c72d06f3963aae94e7845f24f02",
-    "legacyAddress": "0x275f508689de8756169d1ee02d889c777de1cebda3a7bbcce63ba8a27c563c6f::tokens::WBTC",
-    "symbol": "WBTC",
-    "description": "Wrapped Bitcoin",
-    "decimals": 8,
-    "image": "aptos/asset/WBTC.png",
-    "default": false,
-    "coinGeckoId": "wrapped-bitcoin"
-  },
-  {
     "chainId": 250,
     "chainName": "Bardock Testnet",
-    "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::DAI",
-    "symbol": "DAI",
-    "description": "Dai Stablecoin",
-    "decimals": 8,
-    "image": "aptos/asset/DAI.png",
-    "default": false,
-    "coinGeckoId": "dai"
-  },
-  {
-    "chainId": 177,
-    "chainName": "Porto Testnet",
     "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::DAI",
     "symbol": "DAI",
     "description": "Dai Stablecoin",
@@ -165,30 +138,8 @@
     "coinGeckoId": "wbnb"
   },
   {
-    "chainId": 177,
-    "chainName": "Porto Testnet",
-    "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::BNB",
-    "symbol": "BNB",
-    "description": "Binance Coin",
-    "decimals": 6,
-    "image": "aptos/asset/BNB.png",
-    "default": false,
-    "coinGeckoId": "wbnb"
-  },
-  {
     "chainId": 250,
     "chainName": "Bardock Testnet",
-    "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::SOL",
-    "symbol": "SOL",
-    "description": "Solana Coin",
-    "decimals": 8,
-    "image": "aptos/asset/SOL.png",
-    "default": false,
-    "coinGeckoId": "solana"
-  },
-  {
-    "chainId": 177,
-    "chainName": "Porto Testnet",
     "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::SOL",
     "symbol": "SOL",
     "description": "Solana Coin",
@@ -209,30 +160,8 @@
     "coinGeckoId": "matic-network"
   },
   {
-    "chainId": 177,
-    "chainName": "Porto Testnet",
-    "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::MATIC",
-    "symbol": "MATIC",
-    "description": "Polygon Matic",
-    "decimals": 8,
-    "image": "aptos/asset/MATIC.png",
-    "default": false,
-    "coinGeckoId": "matic-network"
-  },
-  {
     "chainId": 250,
     "chainName": "Bardock Testnet",
-    "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::NEAR",
-    "symbol": "NEAR",
-    "description": "Near",
-    "decimals": 8,
-    "image": "aptos/asset/NEAR.png",
-    "default": false,
-    "coinGeckoId": "near"
-  },
-  {
-    "chainId": 177,
-    "chainName": "Porto Testnet",
     "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::NEAR",
     "symbol": "NEAR",
     "description": "Near",
@@ -253,17 +182,6 @@
     "coinGeckoId": "tron"
   },
   {
-    "chainId": 177,
-    "chainName": "Porto Testnet",
-    "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::Coins::TRON",
-    "symbol": "TRON",
-    "description": "Tron",
-    "decimals": 8,
-    "image": "aptos/asset/TRON.png",
-    "default": false,
-    "coinGeckoId": "tron"
-  },
-  {
     "chainId": 250,
     "chainName": "Bardock Testnet",
     "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::razor_token::Razor",
@@ -275,30 +193,8 @@
     "coinGeckoId": "uniswap"
   },
   {
-    "chainId": 177,
-    "chainName": "Porto Testnet",
-    "address": "0xcab9a7545a4f4a46308e2ac914a5ce2dcf63482713e683b4bc5fc4b514a790f2::razor_token::Razor",
-    "symbol": "RZR",
-    "description": "Razor Token",
-    "decimals": 8,
-    "image": "aptos/asset/RZR.png",
-    "default": false,
-    "coinGeckoId": "uniswap"
-  },
-  {
     "chainId": 250,
     "chainName": "Bardock Testnet",
-    "address": "0x8093e814c5cde1a2775750e999b3d9a01633fca54959126d890e87d95acbabca::staking::StakingToken",
-    "symbol": "stMOVE",
-    "description": "Staked Testnet Move",
-    "decimals": 8,
-    "image": "aptos/asset/stMOVE.png",
-    "default": false,
-    "coinGeckoId": "movement"
-  },
-  {
-    "chainId": 177,
-    "chainName": "Porto Testnet",
     "address": "0x8093e814c5cde1a2775750e999b3d9a01633fca54959126d890e87d95acbabca::staking::StakingToken",
     "symbol": "stMOVE",
     "description": "Staked Testnet Move",
