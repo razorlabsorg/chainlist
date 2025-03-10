@@ -89,6 +89,14 @@
       "chainId": 126,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/razorlabsorg/chainlist/refs/heads/main/chain/aptos/asset/USDC.png"
+    },
+    {
+      "name": "MOONMOVERZ",
+      "symbol": "GMOON",
+      "address": "0xc694546bc73ae6f759b1c31c8f4074f9a9b36f1c4ccae5bcbeddb151fd5e9532",
+      "chainId": 126,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/razorlabsorg/chainlist/refs/heads/main/chain/aptos/asset/GMOON.png"
     }
   ]
 }
