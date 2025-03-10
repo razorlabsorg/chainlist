@@ -202,5 +202,15 @@
     "image": "aptos/asset/stMOVE.png",
     "default": false,
     "coinGeckoId": "movement"
+  },
+  {
+    "chainId": 126,
+    "chainName": "Mainnet",
+    "address": "0xc694546bc73ae6f759b1c31c8f4074f9a9b36f1c4ccae5bcbeddb151fd5e9532",
+    "symbol": "GMOON",
+    "description": "MOONMOVERZ",
+    "decimals": 8,
+    "image": "aptos/asset/GMOON.png",
+    "default": false
   }
 ]
