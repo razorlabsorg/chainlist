@@ -212,5 +212,25 @@
     "decimals": 8,
     "image": "aptos/asset/GMOON.png",
     "default": false
+  },
+  {
+    "chainId": 126,
+    "chainName": "Mainnet",
+    "address": "0xad8a8c8c15e11ea5ccefae1808d4c37dd3888e3545febf5a928215b73bf3c4b0",
+    "symbol": "WEUSD",
+    "description": "WEUSD",
+    "decimals": 6,
+    "image": "aptos/asset/WEUSD.png",
+    "default": false
+  },
+  {
+    "chainId": 126,
+    "chainName": "Mainnet",
+    "address": "0xf5670624772bf9f5804e8d21d6a77d30d210fe84f28f5c095b5eb64e479c0d03",
+    "symbol": "PIPI",
+    "description": "PIPI",
+    "decimals": 6,
+    "image": "aptos/asset/PIPI.png",
+    "default": false
   }
 ]
